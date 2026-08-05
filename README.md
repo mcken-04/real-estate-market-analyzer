@@ -53,7 +53,7 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 
 ## Final Dashboard
 The **Base Case** shows a middle point interest rate to show the expected monthly cash flow after expected monthly rent has been input and monthly payments has been calculated.
-![Base Case Dashboard](assets/dashbaord_base_case.png)
+![Base Case Dashboard](assets/dashboard_base_case.png)
 
 ---
 The **Best Case** shows the investment projection with a lower interest rate at 5%. 

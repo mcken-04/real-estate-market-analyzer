@@ -3,14 +3,14 @@
 **Client:** Vanguard Property Group
 
 ## 1. Executive Summary / Business Case
-Vanguard Property Group requires a dynamic, data driven tool to standardize their property vetting and aquisition process. The goal is to replace disjointed, manual calculations with a centralized Excel dashboard that accurately projects returns and accounts for historical market data to mitigate acquisition risks.
+Vanguard Property Group requires a dynamic, data driven tool to standardize their property vetting and acquisition process. The goal is to replace disjointed, manual calculations with a centralized Excel dashboard that accurately projects returns and accounts for historical market data to mitigate acquisition risks.
 
 ## 2. Client Profile
-**Vanguard Property Group** is a boutique real estate investment firm that specalizes in purchasing single-family homes to hold and manage as long-term rental properties.
+**Vanguard Property Group** is a boutique real estate investment firm that specializes in purchasing single-family homes to hold and manage as long-term rental properties.
 
 ## 3. Problem Statement
-Current;y, Vanguard's aquistion manager face several opertional challenges during the property evaluation phase:
-* **Manual & Inconsistent Evaluation:** Properties are evealuated using "back of the napkin" math and static, disjointed spreadsheets.
+Currently, Vanguard's acquisition manager face several operational challenges during the property evaluation phase:
+* **Manual & Inconsistent Evaluation:** Properties are evaluated using "back of the napkin" math and static, disjointed spreadsheets.
 * **Lack of Standardization:** There is an inability to objectively compare properties across different ZIP codes due to lack of a standardized tool.
 * **Unmitigated Market Risk:** The current process fails to account for historical market stagnation in specific neighborhoods. This recently led to the acquisition of a property that looked promising but resulted in lower than expected returns due to localized market trends.
 

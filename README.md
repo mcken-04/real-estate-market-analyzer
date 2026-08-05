@@ -72,6 +72,6 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Workbook Instructions
-The ROI Analysis workbook is viewable through the link presented below, due to exceeding the maximum upload size within GitHub. To experience the full interactive UI and view the underlying data please download the Excel file to your desktop. (Excel's browser preview does not fully support the dashboard's protective UI features). To view the complete workbook, download the file and unhide the 'Calculator', 'Buy_Home', and 'Rental_Home' tabs.
+The ROI Analysis workbook is viewable through the link presented below, due to exceeding the maximum upload size within GitHub. To experience the full interactive UI and view the underlying data please download the Excel file to your desktop. (Excel's browser preview does not fully support the dashboard's protective UI features). To view the complete workbook, download the file and unhide the 'Calculator', 'Buy_Home', and 'Rental_Home' tabs to view the `XLOOKUP` logic. You can also open the Power query Editor to view my "Applied Steps" for the ETL process. (Note: A `DataSource.NotFound` error will appear in Power Query because the raw Zillow CSV file are not hosted locally, but the transformation steps are fully visable).
 
 > [Real Estate ROI Calulator](https://1drv.ms/x/c/9afc337cec36f324/IQCtkZJYbbU7T5ZgFmkKyzxlATOiuabANe223c9no--7Zvs?e=hnrXuW)

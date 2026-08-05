@@ -69,7 +69,9 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ### Over Market Value
 ![Over Market Value](assets/over_market_value.png)
 > Another filter shows if Expected Monthly Rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
-
-
 ---
 
+## Workbook Instructions
+The ROI Analysis workbook is viewable through the link presented below, due to exceeding the maximum upload size within GitHub. The link will show the Users' UI. To view complete workbook, download the file and unhide the 'Calculator', 'Buy_Home', and 'Rental_Home' tabs.
+
+> [Real Estate ROI Calulator](https://1drv.ms/x/c/9afc337cec36f324/IQCtkZJYbbU7T5ZgFmkKyzxlATOiuabANe223c9no--7Zvs?e=HVjD7i)

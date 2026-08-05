@@ -21,7 +21,7 @@ Currently, Vanguard's acquisition managers are evaluating potential properties u
 
 Vanguard needs a dynamic, data-driven tool to standardize their property vetting process and accurately project a 10 year ROI based on historical ZIP code data.
 
-> **View the full Business Requirments Document (BRD) [here](Business_Requiremnts.md)**
+> **View the full Business Requirments Document (BRD) [here](business_requirments_document.md)**
 
 ---
 

@@ -4,6 +4,11 @@
 ---
 
 ## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Business Problem](#business-problem)
+- [Solution & Methodology](#solution--methodology)
+- [Key Skills Showcased](#key-skills-showcased)
+- [Final Dashboard](#final-dashboard)
 
 ---
 

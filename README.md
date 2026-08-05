@@ -13,7 +13,7 @@
 ---
 
 ## Executive Summary
-* I created an interactive Excel dashboard that helps a real estate investment firm assess single-family rental properties. The tool created, combines custom financial modeling and historical market data to project 10 year returns. To ease aquistion risk. 
+* I created an interactive Excel dashboard that helps a real estate investment firm assess single-family rental properties. The tool created, combines custom financial modeling and historical market data to project 10 year returns. To ease acquisition risk. 
 ---
 
 ## Business Problem
@@ -72,6 +72,6 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Workbook Instructions
-The ROI Analysis workbook is viewable through the link presented below, due to exceeding the maximum upload size within GitHub. The link will show the Users' UI. To view complete workbook, download the file and unhide the 'Calculator', 'Buy_Home', and 'Rental_Home' tabs.
+The ROI Analysis workbook is viewable through the link presented below, due to exceeding the maximum upload size within GitHub. To experience the full interactive UI and view the underlying data please download the Excel file to your desktop. (Excel's browser preview does not fully support the dashboard's protective UI features). To view the complete workbook, download the file and unhide the 'Calculator', 'Buy_Home', and 'Rental_Home' tabs.
 
 > [Real Estate ROI Calulator](https://1drv.ms/x/c/9afc337cec36f324/IQCtkZJYbbU7T5ZgFmkKyzxlATOiuabANe223c9no--7Zvs?e=hnrXuW)

@@ -44,7 +44,11 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Key Skills Showcased
-
+* **ELT and Data Noramlization** (Power Query)
+* **Advanced Excel Functions** (`XLOOKUP`, `PMT`, `FILTER`)
+* **Data Validation and Sheet Protection** (UI/UX locking)
+* **Data Visualization** (Sparklines and Conditional Formatting)
+* **Financial Modeling and Scenario Manager**
 ---
 
 ## Final Dashboard

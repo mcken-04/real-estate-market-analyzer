@@ -52,6 +52,12 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Final Dashboard
+![Base Case Dashboard](assets/dashbaord_base_case.png)
+
+![Best Case Dashboard](assets/dashboard_best_case.png)
+
+![Worst Case Dashboard](assets/dashboard_worst_case.png)
+
 
 
 ---

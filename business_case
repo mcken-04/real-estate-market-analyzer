@@ -1,0 +1,17 @@
+The Business Case: Standardizing Real Estate Acquisition
+The Client
+You have been hired as a freelance data analyst by a boutique real estate investment firm, let's call them Vanguard Property Group. They specialize in purchasing single-family homes to hold as long-term rental properties.
+
+The Pain Point
+Currently, Vanguard's acquisition managers are evaluating potential properties using "back of the napkin" math and disjointed, static spreadsheets. Because they lack a standardized tool, they are struggling to objectively compare properties across different ZIP codes. Recently, they acquired a property that looked great on paper, but they failed to account for historical market stagnation in that specific neighborhood, resulting in lower-than-expected returns.
+
+The Objective (Your Mission)
+Vanguard needs a dynamic, data-driven tool to standardize their property vetting process. They need a single Excel dashboard where an acquisition manager can:
+
+Input a property's financial variables (price, down payment, interest).
+
+Instantly see the projected 10-year ROI and monthly cash flow.
+
+Cross-reference those projections against historical neighborhood trends using Zillow's ZHVI and ZORI datasets.
+
+Stress-test the investment using best-case and worst-case market scenarios.

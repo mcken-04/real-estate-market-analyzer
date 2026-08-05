@@ -52,24 +52,23 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Final Dashboard
-The **Base Case** shows a middle point interest rate to show the expected monthly cash flow after expected monthly rent has been input and monthly payments has been calculated.
+
 ![Base Case Dashboard](assets/dashboard_base_case.png)
-
+> The **Base Case** shows a middle point interest rate to show the expected monthly cash flow after expected monthly rent has been input and monthly payments has been calculated. Along with a sparkline visual to show a 20 year trend with a green and red point to show the high and low over that time.
 ---
-The **Best Case** shows the investment projection with a lower interest rate at 5%. 
-
+ 
+### Best Case
 ![Best Case Dashboard](assets/dashboard_best_case.png)
-
+> The **Best Case** shows the investment projection with a lower interest rate at 5%.
 ---
-The **Worst Case** shows investment projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the expected monthly rent is lower that the market average and cause a negative monthly cash flow.
-
+### Worst Case
 ![Worst Case Dashboard](assets/dashboard_worst_case.png)
-
+> The **Worst Case** shows investment projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the expected monthly rent is lower that the market average and cause a negative monthly cash flow.
 ---
-Another filter shows if expected rent monthly rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
 
+### Over Market Value
 ![Over Market Value](assets/over_market_value.png)
-
+> Another filter shows if expected rent monthly rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
 
 
 ---

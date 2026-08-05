@@ -33,7 +33,7 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 
 ### 2. Financial Calculator
 * Created a hidden calculation sheet using financial functions like `=PMT()` to calculate accurate debt service.
-* Mapped out a live monthly cash flow projection based user inputs like purchase price, down payment, and interest rate.
+* Mapped out a live monthly cash flow projection based user inputs like Purchase Price, Down Payment, and Interest Rate.
 
 ### 3. Analytics
 * Built `=XLOOKUP()` formulas with built-in error handling (`[if_not_found}`) to instantly fetch local market data based on the user's Target ZIP Code.
@@ -54,21 +54,21 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ## Final Dashboard
 
 ![Base Case Dashboard](assets/dashboard_base_case.png)
-> The **Base Case** shows a middle point interest rate to show the expected monthly cash flow after expected monthly rent has been input and monthly payments has been calculated. Along with a sparkline visual to show a 20 year trend with a green and red point to show the high and low over that time.
+> The **Base Case** shows a middle point interest rate to show the Expected Monthly Cash Flow after Expected Monthly Rent has been input and Monthly Payments has been calculated. Along with a sparkline visual to show a 20 year trend of housing values with a green and red point to show the high and low over that time.
 ---
  
 ### Best Case
 ![Best Case Dashboard](assets/dashboard_best_case.png)
-> The **Best Case** shows the investment projection with a lower interest rate at 5%.
+> The **Best Case** shows the Investment Projection with a lower interest rate at 5%.
 ---
 ### Worst Case
 ![Worst Case Dashboard](assets/dashboard_worst_case.png)
-> The **Worst Case** shows investment projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the expected monthly rent is lower that the market average and cause a negative monthly cash flow.
+> The **Worst Case** shows Investment Projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the Expected Monthly Rent is lower than the Current Market Average and cause a negative Monthly Cash Flow.
 ---
 
 ### Over Market Value
 ![Over Market Value](assets/over_market_value.png)
-> Another filter shows if expected rent monthly rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
+> Another filter shows if Expected Monthly Rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
 
 
 ---

@@ -21,7 +21,7 @@ Currently, Vanguard's acquisition managers are evaluating potential properties u
 
 Vanguard needs a dynamic, data-driven tool to standardize their property vetting process and accurately project a 10 year ROI based on historical ZIP code data.
 
-> **View the full Business Requirments Document (BRD) [here](business_requirments_document.md)**
+> **View the full Business Requirements Document (BRD) [here](business_requirments_document.md)**
 
 ---
 
@@ -44,7 +44,7 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Key Skills Showcased
-* **ELT and Data Noramlization** (Power Query)
+* **ELT and Data Normalization** (Power Query)
 * **Advanced Excel Functions** (`XLOOKUP`, `PMT`, `FILTER`)
 * **Data Validation and Sheet Protection** (UI/UX locking)
 * **Data Visualization** (Sparklines and Conditional Formatting)
@@ -52,11 +52,20 @@ Vanguard needs a dynamic, data-driven tool to standardize their property vetting
 ---
 
 ## Final Dashboard
+The **Base Case** shows a middle point interest rate to show the expected monthly cash flow after expected monthly rent has been input and monthly payments has been calculated.
 ![Base Case Dashboard](assets/dashbaord_base_case.png)
 
+---
+The **Best Case** shows the investment projection with a lower interest rate at 5%. 
 ![Best Case Dashboard](assets/dashboard_best_case.png)
 
+---
+The **Worst Case** shows investment projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the expected monthly rent is lower that the market average and cause a negative monthly cash flow.
 ![Worst Case Dashboard](assets/dashboard_worst_case.png)
+
+---
+Another filter shows if expected rent monthly rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
+![Over Market Value](assets/over_market_value.png)
 
 
 

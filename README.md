@@ -57,14 +57,17 @@ The **Base Case** shows a middle point interest rate to show the expected monthl
 
 ---
 The **Best Case** shows the investment projection with a lower interest rate at 5%. 
+
 ![Best Case Dashboard](assets/dashboard_best_case.png)
 
 ---
 The **Worst Case** shows investment projections with a higher interest rate at 8%. Along with the ability to show bad investments with filtered projections. In this example the expected monthly rent is lower that the market average and cause a negative monthly cash flow.
+
 ![Worst Case Dashboard](assets/dashboard_worst_case.png)
 
 ---
 Another filter shows if expected rent monthly rent exceeds the market average rent. Cautioning users if ideal rent is above the market threshold.
+
 ![Over Market Value](assets/over_market_value.png)
 
 

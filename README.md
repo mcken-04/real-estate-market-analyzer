@@ -20,13 +20,25 @@
 Currently, Vanguard's acquisition managers are evaluating potential properties using inconsistent math and disjoined, static spreadsheets. Because they lack a standardized tool, they struggle to objectively compare properties across different ZIP codes, occasionally leading to risky investments that fail to account for historical market stagnation.
 
 Vanguard needs a dynamic, data-driven tool to standardize their property vetting process and accurately project a 10 year ROI based on historical ZIP code data. 
+
 ---
 
 ## Solution & Methodology
 
 ### 1. Data Extraction & Cleaning
 * Pulled in **Zillow Home Value Index (ZHVI)** and **Zillow Observed Rent Index (ZORI)** CSVs from Zillow Research Data.
-* Used **Power Query** to filter by target states and unpivot data columns into a clean, normalized,  "long" format automating the ETL process. 
+* Used **Power Query** to filter by target states and unpivot data columns into a clean, normalized,  "long" format automating the ETL process.
+
+### 2. Financial Calculator
+* Created a hidden calulation sheet using financial functions like `=PMT()` to calculate accurate debt service.
+* Maped out a live monthly cash flow projection based user inputs like purchase price, down payment, and interest rate.
+
+### 3. Analytics
+* Built `=XLOOKUP()` formulas with built-in error handling (`[if_not_found}`) to instantly fetch local market data based on the user's Target ZIP Code.
+* Integrated `=FILTER()` dyanamic arayy to extract 20+ years of historcal data for dyanmic sparkline visualizations.
+
+### 4. Scenario Stress Testing
+* Set up a **What-If Analysis & Scenario Manager** to allow the firm to toggle between and evaluate "Base Case", "best Case", and "Worst Case" housing market scenarios.
 ---
 
 ## Key Skills Showcased

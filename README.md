@@ -9,6 +9,7 @@
 - [Solution & Methodology](#solution--methodology)
 - [Key Skills Showcased](#key-skills-showcased)
 - [Final Dashboard](#final-dashboard)
+- [Workbook Instructions](#workbook-instructions)
 
 ---
 

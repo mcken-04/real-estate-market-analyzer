@@ -17,11 +17,16 @@
 ---
 
 ## Business Problem
+Currently, Vanguard's acquisition managers are evaluating potential properties using inconsistent math and disjoined, static spreadsheets. Because they lack a standardized tool, they struggle to objectively compare properties across different ZIP codes, occasionally leading to risky investments that fail to account for historical market stagnation.
 
+Vanguard needs a dynamic, data-driven tool to standardize their property vetting process and accurately project a 10 year ROI based on historical ZIP code data. 
 ---
 
 ## Solution & Methodology
 
+### 1. Data Extraction & Cleaning
+* Pulled in **Zillow Home Value Index (ZHVI)** and **Zillow Observed Rent Index (ZORI)** CSVs from Zillow Research Data.
+* Used **Power Query** to filter by target states and unpivot data columns into a clean, normalized,  "long" format automating the ETL process. 
 ---
 
 ## Key Skills Showcased

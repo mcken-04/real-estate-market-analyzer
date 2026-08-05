@@ -1,6 +1,6 @@
 # Real Estate Investment ROI Calculator & Market Analysis
 ### Standardizing Real Estate Acquisitions for Vanguard Property Group
-
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 
 ## Table of Contents
